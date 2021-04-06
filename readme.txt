@@ -1,3 +1,5 @@
+For Windows Pico Development:
+https://github.com/ndabas/pico-setup-windows
 For Raspberry Pi Pico Starting Guide:
 https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf
 For Raspberry Pi Pico Reference Manual:
